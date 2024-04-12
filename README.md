@@ -6,3 +6,6 @@ The objective of this problem is described in the following points:
    
 ## About data
  The dataset that we will use is transaction online retail from the UCI Machine Learning Repository, which can be accessed from the link: http://archive.ics.uci.edu/dataset/352/online+retail.
+
+ ## Dashboard Analytics
+ Google Looker: https://lookerstudio.google.com/s/ochJ3GR47OA
