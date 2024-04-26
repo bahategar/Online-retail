@@ -12,12 +12,13 @@ The objective of this problem is described in the following points:
  Google Looker: https://lookerstudio.google.com/s/ochJ3GR47OA
 
 ## Result
+![result](overview-result.png)
+What we can do from this strategy :
 
-What can we do from the customer potential data:
 1. From customers with a high probability of repurchase, we can do a more detailed analysis of the products they often buy for product development.
 
 2. We assume this model works well enough, so that we can see customers with a high probability of repurchase but not repurchase. We can take mitigation actions to prevent customer loss.
 
-3. We can see customers with high transaction history, but no purchase or low repurchase probability. We can try to attract them back, because they are big spenders after all.
+3. We can see high value customers (based on our customer segmentation), but no purchase or low repurchase probability. We can try to attract them back, because they are our big spenders after all.
 
-4. We can see customers with a history of high purchase frequency, but no purchase or low repurchase probability. They are our loyal customers, so we need to take incentive actions to prevent losing our loyal customers.
+4. We can see medium value customers (based on our customer segmentation), but no purchase or low repurchase probability. They are our loyal customers, so we need to take incentive actions to prevent losing our loyal customers.
