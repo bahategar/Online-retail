@@ -16,9 +16,6 @@ The objective of this problem is described in the following points:
 What we can do from this strategy :
 
 1. From customers with a high probability of repurchase, we can do a more detailed analysis of the products they often buy for product development.
-
-2. We assume this model works well enough, so that we can see customers with a high probability of repurchase but not repurchase. We can take mitigation actions to prevent customer loss.
-
-3. We can see high value customers (based on our customer segmentation), but no purchase or low repurchase probability. We can try to attract them back, because they are our big spenders after all.
-
-4. We can see medium value customers (based on our customer segmentation), but no purchase or low repurchase probability. They are our loyal customers, so we need to take incentive actions to prevent losing our loyal customers.
+2. We assume this model works well enough so that we can see customers with a high repurchase probability but do not repurchase. We can take mitigation actions to prevent churn customers.
+3. We can see high-value customers, based on our customer segmentation, but do not repurchase or have low repurchase probability. We can try to attract them back because they are our big spenders after all.
+4. We can see medium-value customers, based on our customer segmentation, but do not repurchase or low repurchase probability. They are our loyal customers, so we need to take incentive actions to prevent losing our loyal customers.
