@@ -10,7 +10,7 @@ The objective of this problem is described in the following points:
  The dataset that we will use is transaction online retail from the UCI Machine Learning Repository, which can be accessed from the [link](http://archive.ics.uci.edu/dataset/352/online+retail).
 
  ## Dashboard Analytics
- Tableau: [Link](https://lookerstudio.google.com/s/ochJ3GR47OA)
+ Tableau: [Link](https://public.tableau.com/app/profile/baha.tegar.ramadhan/viz/Online-retail/SalesDashboard)
 
 ## Result
 ![result](overview-result.png)
